@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow these explicitly
+!.gitignore
+!README.md
+!*.ipynb
+!**/*.ipynb
+!*/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
