@@ -2,7 +2,7 @@
 
 Jupyter notebooks for finite nuclei studies using Relativistic Mean-Field (RMF) models.
 
-Topics include:
+The code computes:
 - Nuclear structure calculations
 - Binding energies and charge radii
 - Ground-state properties of finite nuclei
